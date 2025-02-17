@@ -110,4 +110,4 @@ void sendLocationMessage() {
   delay(1000);
   gsm.write(26);
   delay(1000);
-} 
+}   
